@@ -1,0 +1,79 @@
+# 凯叔线下开发
+
+# 线下
+10.70.98.142 cdn.service.mogujie.org
+10.13.128.197 cdn.service.mogujie.org
+10.70.96.76 static.mogujie.com
+10.70.96.76 xd.realshark.com
+10.70.96.76 www.mogujie.com
+10.70.96.76 h5.realshark.com
+10.70.96.76 promotion.realshark.com
+10.70.96.76 cs.realshark.com
+10.70.96.76 logistics.realshark.com
+10.70.96.76 xdmedia.realshark.com
+10.70.82.188 media.realshark.com
+10.70.96.76 shieldcaptain.realshark.com
+10.70.96.76 www.realshark.com
+10.70.96.76 portal.realshark.com
+10.70.97.92 lingxiao.service.mogujie.org
+10.70.96.45 mmenv.service.mogujie.org
+118.25.33.97 dev.mogucdn.com
+
+10.70.96.45 mmenv.service.mogujie.org
+# 10.70.96.15 raptor.service.mogujie.org
+10.70.96.167 raptor.service.mogujie.org
+
+# 用户
+# 10.70.80.227 rs-portal.realshark.com
+10.70.80.35 component.realshark.com
+10.70.80.227 kaishu-portal.realshark.com
+10.70.99.66 xd.mogujie.com # 登录
+118.25.33.97 static.mogujie.com # 登录
+118.25.33.97 rs-portal.realshark.com
+
+# OMS
+10.70.100.67 msapi.meili-inc.com
+10.70.100.67 msapi.mogu-inc.com
+10.70.99.33 ms.openapi.mogujie.org
+
+# 锐鲨中台
+10.70.82.189 accounts.realshark.com
+10.70.82.163 brand.realshark.com
+10.70.82.178 auth.realshark.com
+10.70.82.225 sunny.realshark.com
+10.70.82.170 cycle.realshark.com
+10.70.82.160 actionlog.realshark.com
+172.19.12.54 devwww.realshark.com
+10.70.82.141 mait.realshark.com
+10.70.82.138 dev.comb.realshark.com
+
+# kaishu中台-线下
+118.25.33.97 kaishu-h5.realshark.com
+118.25.33.97 kaishu-jcube.realshark.com
+118.25.33.97 kaishu-xd.realshark.com
+118.25.33.97 kaishu-itemaudit.realshark.com
+118.25.33.97 kaishu-comb.realshark.com
+118.25.33.97 kaishu-auth.realshark.com
+118.25.33.97 kaishu-sunny.realshark.com
+118.25.33.97 kaishu-accounts.realshark.com
+118.25.33.97 kaishu-brand.realshark.com
+118.25.33.97 kaishu-cycle.realshark.com
+118.25.33.97 kaishu-e.realshark.com
+
+10.70.82.227 dev.tangram.mogu-inc.com
+10.70.82.227 tangram.realshark.com
+
+
+
+118.25.33.97 kaishu-h5.realshark.com
+118.25.33.97 kaishu-jcube.realshark.com
+118.25.33.97 kaishu-xd.realshark.com
+118.25.33.97 kaishu-itemaudit.realshark.com
+118.25.33.97 kaishu-comb.realshark.com
+118.25.33.97 kaishu-auth.realshark.com
+118.25.33.97 kaishu-sunny.realshark.com
+118.25.33.97 kaishu-accounts.realshark.com
+118.25.33.97 kaishu-brand.realshark.com
+118.25.33.97 kaishu-cycle.realshark.com
+10.70.82.198 kaishu-e.realshark.com
+118.25.33.97 kaishu-logistics.realshark.com
